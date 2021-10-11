@@ -1,4 +1,4 @@
-## Opa eu sou o Jonathan Costa, Aprendiz de programação
+## Opa!! Eu sou o Jonathan Costa, Aprendiz de programação
 
 - 🔭 Atualmente trabalho como Monitor de Ônibus escolar, mas busco carreira como programador
 - 🌱 Me aprofundando nas linguagens HTML5, PHP, CSS, JavaScript, Java e Python.
@@ -25,6 +25,7 @@
   <a href="https://www.instagram.com/_tiwjhow_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jonathancosta2100@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathan-costa-418073221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+    
+![Snake animation](https://github.com/JonathanSantos2000/JonathanSantos2000/blob/output/github-contribution-grid-snake.svg)
  
 </div>
