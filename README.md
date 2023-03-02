@@ -1,6 +1,6 @@
-## Opa!! Eu sou o Jonathan Costa, Aprendiz de programação
+## Opa!! Eu sou o Jonathan Costa.
 
-- 🔭 Atualmente trabalho como Monitor de Ônibus escolar, mas busco carreira como programador
+- 🔭 Atualmente trabalho como Monitor de Sala de informatica no colegio Municipal, mas busco carreira como programador
 - 🌱 Me aprofundando nas linguagens HTML5, PHP, CSS, JavaScript, Java e Python.
 - 📫 Contate-me no email: jonathancosta2100@gmail.com
 - 😄 Pronomes: ele/dele
