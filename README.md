@@ -1,7 +1,7 @@
 ## Opa!! Eu sou o Jonathan Costa.
 
 - 🔭 Atualmente trabalho como Monitor de Sala de informatica no colegio Municipal, mas busco carreira como programador
-- 🌱 Me aprofundando nas linguagens HTML5, PHP, CSS, JavaScript, Java e Python.
+- 🌱 Me aprofundando nas linguagens HTML5, PHP, CSS, JavaScript e Python.
 - 📫 Contate-me no email: jonathancosta2100@gmail.com
 - 😄 Pronomes: ele/dele
 
@@ -16,7 +16,6 @@
   <img align="center" alt="Jonathan-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Jonathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jonathan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Jonathan-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Jonathan-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/723321270107897856/897180958116163624/Webp.net-gifmaker_1.gif">
 </div>
